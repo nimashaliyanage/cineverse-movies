@@ -1,0 +1,87 @@
+.content {
+  margin-bottom: 100px;
+  position: relative;
+  margin-left: 80px;
+  max-width: 550px;
+  visibility: hidden;
+  opacity: 0;
+  transform: scale(0);
+  transition: 1s;
+  z-index: 1000;
+}
+.content.active {
+  visibility: visible;
+  opacity: 1;
+  transform: scale(1);
+}
+.movietitle {
+  max-width: 200px;
+  margin-bottom: 10px;
+  margin-top: 150px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px #f5da0c8e;
+}
+.content h3 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  text-transform: capitalize;
+  font-style: italic;
+  text-align: left;
+  text-shadow: 0 0 10px #f5da0c8e;
+}
+
+.content h4 {
+  color: rgba(255, 255, 255, 1);
+  font-weight: 400;
+  font-size: 20px;
+}
+.content h4 span {
+  padding: 0 10px;
+  border-right: 3px solid rgba(255, 255, 255, 1);
+}
+.content h4 span:first-child {
+  padding-left: 0;
+}
+.content h4 span:last-child {
+  padding-right: 0;
+  border-right: none;
+}
+.content h4 span i {
+  background: var(--primary);
+  color: white;
+  padding: 0 8px;
+  display: inline-block;
+  border-radius: 2px;
+}
+@media (max-width: 1250px) {
+  .content {
+    padding: 30px 20px;
+    margin-top: 10px; /* Adjust padding for smaller screens */
+  }
+
+  .content h4 {
+    visibility: visible;
+    font-size: 16px; /* Adjust padding for smaller screens */
+  }
+}
+@media (max-width: 995px) {
+  .content {
+    padding: 30px 20px;
+    margin-top: 350px;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Adjust padding for smaller screens */
+  }
+  .content h3 {
+    text-align: center;
+  }
+  .movietitle {
+    max-width: 220px;
+  }
+
+  .content h4 {
+    visibility: visible;
+    font-size: 16px; /* Adjust padding for smaller screens */
+  }
+}

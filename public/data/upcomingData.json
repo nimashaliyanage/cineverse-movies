@@ -1,0 +1,242 @@
+[
+  {
+    "_id": 1,
+    "previewImg": "../Assets/Upcoming/deadpool.jpg"
+  },
+  {
+    "_id": 2,
+    "previewImg": "../Assets/Upcoming/joker.jpg"
+  },
+  {
+    "_id": 3,
+    "previewImg": "../Assets/Upcoming/fallguy.jpg"
+  },
+  {
+    "_id": 4,
+    "previewImg": "../Assets/Upcoming/dune2.jpg"
+  },
+  {
+    "_id": 5,
+    "previewImg": "../Assets/Upcoming/apes.jpg"
+  },
+  {
+    "_id": 6,
+    "previewImg": "../Assets/Upcoming/alien.jpg"
+  },
+  {
+    "_id": 7,
+    "previewImg": "../Assets/Upcoming/chall.jpg"
+  },
+  {
+    "_id": 8,
+    "previewImg": "../Assets/Upcoming/garfild.jpg"
+  },
+  {
+    "_id": 9,
+    "previewImg": "../Assets/Upcoming/furiosa.jpg"
+  },
+  {
+    "_id": 10,
+    "previewImg": "../Assets/Upcoming/if.jpg"
+  },
+  {
+    "_id": 11,
+    "previewImg": "../Assets/Upcoming/deadpool.jpg"
+  },
+  {
+    "_id": 12,
+    "previewImg": "../Assets/Upcoming/joker.jpg"
+  },
+  {
+    "_id": 13,
+    "previewImg": "../Assets/Upcoming/fallguy.jpg"
+  },
+  {
+    "_id": 14,
+    "previewImg": "../Assets/Upcoming/dune2.jpg"
+  },
+  {
+    "_id": 15,
+    "previewImg": "../Assets/Upcoming/apes.jpg"
+  },
+  {
+    "_id": 16,
+    "previewImg": "../Assets/Upcoming/alien.jpg"
+  },
+  {
+    "_id": 17,
+    "previewImg": "../Assets/Upcoming/chall.jpg"
+  },
+  {
+    "_id": 18,
+    "previewImg": "../Assets/Upcoming/garfild.jpg"
+  },
+  {
+    "_id": 19,
+    "previewImg": "../Assets/Upcoming/furiosa.jpg"
+  },
+  {
+    "_id": 20,
+    "previewImg": "../Assets/Upcoming/if.jpg"
+  },
+  {
+    "_id": 21,
+    "previewImg": "../Assets/Upcoming/deadpool.jpg"
+  },
+  {
+    "_id": 22,
+    "previewImg": "../Assets/Upcoming/joker.jpg"
+  },
+  {
+    "_id": 23,
+    "previewImg": "../Assets/Upcoming/fallguy.jpg"
+  },
+  {
+    "_id": 24,
+    "previewImg": "../Assets/Upcoming/dune2.jpg"
+  },
+  {
+    "_id": 25,
+    "previewImg": "../Assets/Upcoming/apes.jpg"
+  },
+  {
+    "_id": 26,
+    "previewImg": "../Assets/Upcoming/alien.jpg"
+  },
+  {
+    "_id": 27,
+    "previewImg": "../Assets/Upcoming/chall.jpg"
+  },
+  {
+    "_id": 28,
+    "previewImg": "../Assets/Upcoming/garfild.jpg"
+  },
+  {
+    "_id": 29,
+    "previewImg": "../Assets/Upcoming/furiosa.jpg"
+  },
+  {
+    "_id": 30,
+    "previewImg": "../Assets/Upcoming/if.jpg"
+  },
+  {
+    "_id": 31,
+    "previewImg": "../Assets/Upcoming/deadpool.jpg"
+  },
+  {
+    "_id": 32,
+    "previewImg": "../Assets/Upcoming/joker.jpg"
+  },
+  {
+    "_id": 33,
+    "previewImg": "../Assets/Upcoming/fallguy.jpg"
+  },
+  {
+    "_id": 34,
+    "previewImg": "../Assets/Upcoming/dune2.jpg"
+  },
+  {
+    "_id": 35,
+    "previewImg": "../Assets/Upcoming/apes.jpg"
+  },
+  {
+    "_id": 36,
+    "previewImg": "../Assets/Upcoming/alien.jpg"
+  },
+  {
+    "_id": 37,
+    "previewImg": "../Assets/Upcoming/chall.jpg"
+  },
+  {
+    "_id": 38,
+    "previewImg": "../Assets/Upcoming/garfild.jpg"
+  },
+  {
+    "_id": 39,
+    "previewImg": "../Assets/Upcoming/furiosa.jpg"
+  },
+  {
+    "_id": 40,
+    "previewImg": "../Assets/Upcoming/if.jpg"
+  },
+  {
+    "_id": 41,
+    "previewImg": "../Assets/Upcoming/deadpool.jpg"
+  },
+  {
+    "_id": 42,
+    "previewImg": "../Assets/Upcoming/joker.jpg"
+  },
+  {
+    "_id": 43,
+    "previewImg": "../Assets/Upcoming/fallguy.jpg"
+  },
+  {
+    "_id": 44,
+    "previewImg": "../Assets/Upcoming/dune2.jpg"
+  },
+  {
+    "_id": 45,
+    "previewImg": "../Assets/Upcoming/apes.jpg"
+  },
+  {
+    "_id": 46,
+    "previewImg": "../Assets/Upcoming/alien.jpg"
+  },
+  {
+    "_id": 47,
+    "previewImg": "../Assets/Upcoming/chall.jpg"
+  },
+  {
+    "_id": 48,
+    "previewImg": "../Assets/Upcoming/garfild.jpg"
+  },
+  {
+    "_id": 49,
+    "previewImg": "../Assets/Upcoming/furiosa.jpg"
+  },
+  {
+    "_id": 50,
+    "previewImg": "../Assets/Upcoming/if.jpg"
+  },
+  {
+    "_id": 51,
+    "previewImg": "../Assets/Upcoming/deadpool.jpg"
+  },
+  {
+    "_id": 52,
+    "previewImg": "../Assets/Upcoming/joker.jpg"
+  },
+  {
+    "_id": 53,
+    "previewImg": "../Assets/Upcoming/fallguy.jpg"
+  },
+  {
+    "_id": 54,
+    "previewImg": "../Assets/Upcoming/dune2.jpg"
+  },
+  {
+    "_id": 55,
+    "previewImg": "../Assets/Upcoming/apes.jpg"
+  },
+  {
+    "_id": 56,
+    "previewImg": "../Assets/Upcoming/alien.jpg"
+  },
+  {
+    "_id": 57,
+    "previewImg": "../Assets/Upcoming/chall.jpg"
+  },
+  {
+    "_id": 58,
+    "previewImg": "../Assets/Upcoming/garfild.jpg"
+  },
+  {
+    "_id": 59,
+    "previewImg": "../Assets/Upcoming/furiosa.jpg"
+  },
+  {
+    "_id": 60,
+    "previewImg": "../Assets/Upcoming/if.jpg"
+  }
+]

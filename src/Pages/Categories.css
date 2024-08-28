@@ -1,0 +1,24 @@
+.categiries .filters {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  list-style: none;
+  gap: 25px;
+  margin-top: 30px;
+}
+.categiries .filters li {
+  color: #000025;
+  padding: 10px 20px;
+  background: var(--primary);
+  transition: 0.3s;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.categiries .filters li:hover,
+.categiries .filters li.active {
+  background: white;
+}

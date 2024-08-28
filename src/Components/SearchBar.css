@@ -1,0 +1,42 @@
+.search {
+  position: relative;
+  width: 300px;
+  height: 50px;
+}
+.search ion-icon {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 10px;
+  padding-right: 10px;
+  color: white;
+}
+.search input {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  color: white;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  outline: none;
+  border-radius: 10px;
+  padding: 10px 10px 10px 20px;
+  backdrop-filter: blur(10px);
+}
+.search input::placeholder {
+  color: gray;
+  font-weight: 300;
+}
+@media (max-width: 1035px) {
+  .search input {
+    width: 100%;
+    height: 100%;
+  }
+  .search ion-icon {
+    color: var(--primary);
+    font-size: 2rem;
+    font-weight: 600;
+  }
+}

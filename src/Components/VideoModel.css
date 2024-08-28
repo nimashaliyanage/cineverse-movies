@@ -1,0 +1,57 @@
+.movieModal {
+  position: absolute;
+  content: "";
+  top: 140px;
+  left: 150px;
+  right: 150px;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.597);
+  backdrop-filter: blur(5px);
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.581);
+  z-index: 1500;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: 1s;
+  border-radius: 30px;
+}
+.movieModal iframe {
+  max-width: 1280px;
+  max-height: 720px;
+  border-radius: 20px;
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.581);
+}
+.movieModal .modalClose {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  color: rgb(255, 255, 255);
+  font-size: 2rem;
+}
+.movieModal img {
+  position: absolute;
+  cursor: pointer !important;
+  top: 20px;
+  right: 30px;
+  border-radius: 20px;
+}
+.movieModal.active {
+  opacity: 1;
+  visibility: visible;
+}
+@media (max-width: 1200px) {
+  .movieModal {
+    height: 700px;
+    justify-content: center;
+    align-items: center;
+  }
+  .movieModal .modalClose {
+    position: absolute;
+    top: -50px;
+    right: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+  }
+}

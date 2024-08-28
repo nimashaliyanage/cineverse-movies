@@ -1,0 +1,16 @@
+.upcomingSwiper .swiper {
+  padding-top: 50px;
+}
+.upcomingSwiper .swiper-slide {
+  background-position: center;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  width: 240px !important;
+  height: auto !important;
+}
+.upcomingSwiper .swiper-slide img {
+  display: block !important;
+  width: 100% !important;
+  border-radius: 10px 10px 0px 0px !important;
+}
